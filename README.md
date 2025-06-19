@@ -1,6 +1,6 @@
 # 📝 Task Manager (React JS)
 
-A simple Task Manager built using **React JS**. This is a frontend-only project (no backend, no database), where all tasks are stored in local memory using React state.
+A simple Task Manager built using **React JS**. 
 
 You can:
 - ✅ Add a task
@@ -13,10 +13,8 @@ You can:
 
 - Create, view, update, and delete tasks
 - Mark tasks as **Done** or **Pending**
-- Simple, clean UI using plain CSS
-- No backend required – perfect for learning React basics
-
----
+- CSS
+- React
 
 ## ⚙️ Tech Stack
 
@@ -24,16 +22,10 @@ You can:
 - **JavaScript**
 - **CSS**
 
----
+-- How to Run
 
-## 📂 Project Structure
+git clone https://github.com/Rashmi532/Task-Manager.git
 
-task-manager/
-│
-├── src/
-│   ├── components/
-│   │   ├── TaskForm.jsx
-│   │   └── TaskList.jsx
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
+cd task-manager
+npm install
+npm run dev
