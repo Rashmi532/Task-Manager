@@ -27,5 +27,7 @@ You can:
 git clone https://github.com/Rashmi532/Task-Manager.git
 
 cd task-manager
+
 npm install
+
 npm run dev
